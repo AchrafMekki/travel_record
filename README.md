@@ -1,4 +1,4 @@
-# My Read App
+# Travel_experience
 This is a Command Line Application that helps keep track of tourists and their travel records.
 
 ## Database Mission Statement

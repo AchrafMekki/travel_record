@@ -1,0 +1,42 @@
+Country,City1,City2,City3,City4,City5,City6,City7,City8,City9,Total Cities
+Netherlands,Rotterdam,Nijmegen,Alkmaar,Eindhoven,Amesterdam,Maastricht,Groningen,Roermond,venlo,9
+Luxemburg,Luxemburg,-,-,-,-,-,-,-,-,1
+Belgium,Brussels,Antwerp,liege,Arnhem,Genk,Boom,-,-,-,6
+Germany,Düsseldorf,Köln,Wuppertal,Bonn,Münster,Essen,Dortmund,Aachen,Mönchengladbach,9
+Spain,Barcelona,Madrid,Palma de Mallorca,Ibiza,Sevilla,-,-,-,-,5
+Italy,Milan,Genoa,Portofino,Como,Roma,-,-,-,-,5
+France,Paris,Marseille,Strasbourg,Colmar,-,-,-,-,-,4
+Austria,Salzburg,Vienna,-,-,-,-,-,-,-,2
+Switzerland,Zürich,Basel,Lucerne,-,-,-,-,-,-,3
+Portugal,lisbon,Porto,-,-,-,-,-,-,-,2
+Czechia,Prague,-,-,-,-,-,-,-,-,1
+Sweden,Stockholm,Malmö,-,-,-,-,-,-,-,2
+Turkey,Istanbul,Izmir,Antalya,-,-,-,-,-,-,3
+South Africa,Johannesburg,Cape Town-,-,-,-,-,-,-,-,2
+South Korea,Seoul,Busan-,-,-,-,-,-,-,-,2
+Australia,Melbourne,Sydney-,-,-,-,-,-,-,-,2
+Canada,Toronto-,-,-,-,-,-,-,-,-,1
+Brazil,Rio de Janeiro,São Paulo-,-,-,-,-,-,-,-,2
+India,Mumbai-,-,-,-,-,-,-,-,-,1
+Thailand,Bangkok-,-,-,-,-,-,-,-,-,1
+New Zealand,Queenstown-,-,-,-,-,-,-,-,-,1
+Mexico,Mexico,Cancún-,-,-,-,-,-,-,-,2
+Argentina,Buenos Aires-,-,-,-,-,-,-,-,-,1
+Chile,-,-,-,-,-,-,-,-,-,-
+Egypt,Luxor-,-,-,-,-,-,-,-,-,1
+Russia,Moscow,St. Petersburg-,-,-,-,-,-,-,-,2
+Malaysia,Kuala Lumpur-,-,-,-,-,-,-,-,-,1
+Singapore,Marina Bay Sands-,-,-,-,-,-,-,-,,1
+Philippines,Manila-,-,-,-,-,-,-,-,-,1
+Indonesia,Jakarta,Bali-,-,-,-,-,-,-,-,2
+Saudi Arabia-,-,-,-,-,-,-,-,-,-,1
+Norway,Oslo,-,-,-,-,-,-,-,-,1
+Finland,Helsinki,-,-,-,-,-,-,-,-,2
+UK,London,Edinburgh,-,-,-,-,-,-,-,2
+Morocco,Marrakech,Casablanca,-,-,-,-,-,-,-,2
+Greece,Athens,Santorini,Thessaloniki,-,-,-,-,-,-,3
+China,Shanghai,Beijing,-,-,-,-,-,-,-,2
+Japan,Tokyo,Osaka,-,-,-,-,-,-,-,2
+Thailand,Bangkok,Phuket,-,-,-,-,-,-,-,2
+
+

@@ -1,0 +1,27 @@
+
+INSERT INTO travel.country (country_id,country_name)
+ VALUES 
+(1,'USA'),
+(2,'UK'),
+(3,'Spain'),
+(4,'Mexico'),
+(5,'China'),
+(6,'Pakistan'),
+(7,'Canada'),
+(8,'India'),
+(9,'Argentina'),
+(10,'Egypt'),
+(11,'Japan'),
+(12,'Germany'),
+(13,'Australia'),
+(14,'Russia'),
+(15,'Brazil'),
+(16,'Hong Kong'),
+(17,'Italy'),
+(18,'South Korea'),
+(19,'Saudi Arabia'),
+(20,'Sweden'),
+(21,'New Zealand'),
+(22,'Vietnam'),
+(23,'Portugal'),
+(24,'Ireland');

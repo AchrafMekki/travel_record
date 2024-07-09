@@ -1,0 +1,57 @@
+travel_id,tourist_id,Country,Date,Hotel,Transportation,Total Duration,Total Cost,Currency,Trip Type,Preferred Language,Rating/10,Satisfaction level
+1,1,Tunisia,2022-2024,yes,flight/boat/car,-,60 000,TND,Home/Family,Arabic,10/10,*****
+2,Achraf,Germany,2019,no,train/car,-,pending..,€,Future,German,5/10,***
+3,Achraf,Netherlands,2020-2023,yes,car,-,3 800,€,Vacation,German/English,7/10,***
+4,Achraf,Belgium,2021-2023,yes,flight/car/bus,-,4 880,€,Vacation,German/English/French,8/10,****
+5,Achraf,Spain,2022,yes,flight,-,6 778,€,Vacation,German/English,10/10,*****
+6,Achraf,Italy,2022-2023,yes,flight/car,-,1876,€,Vacation,English,6/10,***
+7,Achraf,France,2023,yes,flight/car,-,1 190,€,Vacation,French/English,7/10,***
+8,Achraf,Switzerland,2022-2023,yes,flight/car,-,690,CHF,Vacation,German/English/French,8/10,****
+9,Achraf,Portugal,2019,yes,flight,-,1 110,€,Vacation,English,8/10,****
+10,Achraf,Czechia,2021,yes,flight/train,-,13 614,CZK,Vacation,English,9/10,****
+11,Achraf,Sweden,2023,yes,flight/train,-,40 000,SEK,Vacation/Family,English,9/10,****
+12,Achraf,Austria,2023,yes,flight/train,-,1 180,€,Vacation,German,6/10,***
+13,Achraf,Turkey,2018,yes,flight/train,-,217 438,TRY,Vacation,English,5/10,**
+14,Achraf,Luxemburg,2022,yes,flight/train/car,-,320,€,Vacation,English,7/10,***
+15,John Doe,Australia,2023-2024,yes,flight/car,-,5 000,AUD,Vacation,English,8/10,****
+16,Jane Smith,Japan,2024,yes,flight/train,-,250,JPY,Vacation,Japanese/English,9/10,*****
+17,Michael Brown,Canada,2023,yes,car,-,3 500,CAD,Home/Family,English/French,7/10,***
+18,Emily Davis,Brazil,2022-2023,yes,flight,-,7 000,BRL,Vacation,Portuguese,8/10,****
+19,Robert Wilson,India,2021-2022,yes,flight/train,-,50 000,INR,Vacation,Hindi/English,9/10,*****
+20,Sarah Johnson,South Africa,2023,yes,flight/car,-,10 000,ZAR,Vacation,English,8/10,****
+21,Chris Lee,South Korea,2024,yes,flight,-,3 200,KRW,Vacation,Korean/English,7/10,***
+22,Amanda Moore,Italy,2022-2023,yes,car,-,2 500,€,Vacation,Italian,9/10,*****
+23,Daniel Taylor,Thailand,2023,yes,flight,-,20 000,THB,Vacation,Thai/English,8/10,****
+24,Jessica Thomas,New Zealand,2024,yes,car,-,4 000,NZD,Vacation,English,9/10,*****
+25,David White,Mexico,2023,yes,flight,-,10 000,MXN,Vacation,Spanish,7/10,***
+26,Laura Harris,Argentina,2022-2023,yes,flight,-,8 000,ARS,Vacation,Spanish/English,8/10,****
+27,James Clark,Chile,2023,yes,car,-,5 000,CLP,Vacation,Spanish,7/10,***
+28,Patricia Lewis,Egypt,2022-2023,yes,flight,-,50 000,EGP,Vacation,Arabic/English,9/10,*****
+29,Steven Hall,Russia,2023,yes,train,-,100 000,RUB,Vacation,Russian,8/10,****
+30,Linda Young,China,2024,yes,flight,-,70 000,CNY,Vacation,Mandarin/English,9/10,*****
+31,Barbara King,Malaysia,2022-2023,yes,car,-,20 000,MYR,Vacation,Malay/English,8/10,****
+32,Kevin Wright,Singapore,2023,yes,flight,-,50 000,SGD,Vacation,English,9/10,*****
+33,Carol Green,Philippines,2024,yes,car,-,30 000,PHP,Vacation,Filipino/English,8/10,****
+34,Paul Harris,Indonesia,2023-2024,yes,flight,-,10 000,IDR,Vacation,Indonesian/English,7/10,***
+35,Mary Martin,Saudi Arabia,2023,yes,flight,-,200 000,SAR,Vacation,Arabic/English,9/10,*****
+36,Achraf,Norway,2022,yes,flight/car,-,4 500,NOK,Vacation,English,7/10,***
+37,Achraf,Finland,2023,yes,flight,-,3 800,€,Vacation,English,8/10,****
+38,John Doe,UK,2023-2024,yes,flight,-,2 000,GBP,Vacation,English,9/10,*****
+39,Jane Smith,South Korea,2023,yes,flight,-,2 200,KRW,Vacation,Korean/English,8/10,****
+40,Michael Brown,Morocco,2023,yes,flight,-,7 000,MAD,Vacation,Arabic/French,7/10,***
+41,Emily Davis,Greece,2024,yes,flight,-,5 000,€,Vacation,Greek/English,9/10,*****
+42,Robert Wilson,China,2023-2024,yes,flight,-,70 000,CNY,Vacation,Mandarin/English,9/10,*****
+43,Sarah Johnson,Japan,2022,yes,flight,-,3 500,JPY,Vacation,Japanese/English,9/10,*****
+44,Chris Lee,Thailand,2023,yes,flight,-,15 000,THB,Vacation,Thai/English,8/10,****
+45,Amanda Moore,Sweden,2022,yes,flight,-,6 500,SEK,Vacation,Swedish/English,7/10,***
+46,Daniel Taylor,France,2023-2024,yes,flight,-,3 000,€,Vacation,French/English,8/10,****
+47,Jessica Thomas,India,2024,yes,flight,-,80 000,INR,Vacation,Hindi/English,9/10,*****
+48,David White,Italy,2022,yes,car,-,2 500,€,Vacation,Italian,9/10,*****
+49,Laura Harris,Spain,2023,yes,flight,-,6 000,€,Vacation,Spanish/English,8/10,****
+50,James Clark,Portugal,2024,yes,flight,-,4 000,€,Vacation,Portuguese,7/10,***
+
+
+
+
+
+
